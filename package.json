@@ -1,0 +1,10 @@
+{
+  "name": "legaltime",
+  "version": "1.0.0",
+  "description": "A legal time-tracking application",
+  "main": "src/index.js",
+  "repository": "https://github.com/purity-labs/legaltime",
+  "author": "George Zalepa <george@purity.io>",
+  "license": "AGPL",
+  "private": true
+}
